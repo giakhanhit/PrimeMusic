@@ -30,7 +30,7 @@ async function connectToDatabase() {
     }
 }
 
-const db = client ? client.db("PrimeMusicKaylin") : null;
+const db = client ? client.db("PrimeMusicSSRR") : null;
 const playlistCollection = db ? db.collection("SongPlayLists") : null;
 const autoplayCollection = db ? db.collection("AutoplaySettings") : null;
 
