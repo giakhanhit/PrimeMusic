@@ -1,5 +1,5 @@
 # PrimeMusic-Lavalink
-LAVALINK BOT MADE BY Kaylin.
+LAVALINK BOT MADE BY KAYLIN.
 
 Fork the Repositry and add your bot token. Must turn on intents and run the code.
 Use /play to start playing the songs.
