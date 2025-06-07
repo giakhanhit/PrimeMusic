@@ -11,7 +11,7 @@ module.exports = {
         try {
             const supportServerLink = "https://discord.gg/qEm25ggZeh";
             const githubLink = "https://github.com/giakhanhit";
-            const replitLink = "Hiện chưa có";
+            const replitLink = "https://replit.com/@giakhanh1211";
             const youtubeLink = "https://www.youtube.com/@KhanhGiaIT";
 
             const embed = new EmbedBuilder()
