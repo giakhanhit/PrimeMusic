@@ -27,7 +27,7 @@ module.exports = {
                     .replace("{replitLink}", replitLink)
                     .replace("{youtubeLink}", youtubeLink)
                 )
-                .setImage('https://img.upanh.tv/2025/06/06/Kaylin-Nguyen.png')
+                .setImage('https://i.ibb.co/1YFqd4zR/bannerdiscord.png')
                 .setTimestamp();
 
             await interaction.reply({ embeds: [embed] });
